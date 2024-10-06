@@ -24,7 +24,7 @@ class _CustomContainerState extends State<CustomContainer> {
     return Stack(
       children: [
         Container(
-          height: 250,
+          height: 270,
           width: double.infinity,
           alignment: Alignment.topRight,
           decoration: BoxDecoration(

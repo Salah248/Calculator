@@ -94,7 +94,6 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
             crossAxisCount: 4,
             mainAxisSpacing: 16,
             crossAxisSpacing: 16,
-            padding: const EdgeInsets.only(top: 30),
             children: [
               CustomButton(
                 text: 'C',

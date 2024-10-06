@@ -17,9 +17,9 @@ Dart is a versatile, client-optimized programming language, developed by Google,
 
 ## User Interface
 ### Light Mode
-![Light Mode](https://github.com/Zenta-Code/calculator/assets/131133405/1f301015-aa8f-4e45-8bc3-e85c22603d90)
+![Light Mode](https://github.com/Salah248/Calculator/assets/131133405/1f301015-aa8f-4e45-8bc3-e85c22603d90)
 ### Dark Mode
-![Dark Mode](https://github.com/Zenta-Code/calculator/assets/131133405/9a481999-0ea5-4afc-bd0e-95d6233448b5)
+![Dark Mode](https://github.com/Salah248/Calculator/assets/131133405/9a481999-0ea5-4afc-bd0e-95d6233448b5)
 ### History
 
 ## Installation
@@ -29,4 +29,4 @@ Dart is a versatile, client-optimized programming language, developed by Google,
 ## Development
 
 ## License
-> Zenta.Dev (2023)
+> Salah.Dev (2024)
